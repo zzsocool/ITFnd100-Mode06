@@ -1,4 +1,4 @@
-This is my index file!
+
 #Module 06 Website
 ---
 [Google Homepage](https://www.google.com "Google's Homepage")
