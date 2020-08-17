@@ -69,7 +69,7 @@ class Processor:
         file = open(file_name, 'w')
         for row in list_of_rows:
             file.write(row['Task'] + ',' + row['Priority'] + '\n')
-
+        file.close()
         return list_of_rows, 'Success'
 
 
